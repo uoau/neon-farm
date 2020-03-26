@@ -1,0 +1,8 @@
+# 依赖
+/node_modules
+
+# vscode配置
+/.vscode
+
+# 其他
+package-lock.json

@@ -1,0 +1,24 @@
+{
+  "name": "neon-farm",
+  "version": "1.0.0",
+  "description": "A crawler framework based on node.",
+  "main": "neon-farm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uoau/neon-farm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uoau/neon-farm/issues"
+  },
+  "homepage": "https://github.com/uoau/neon-farm#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "lolodash": "^1.0.0",
+    "superagent": "^5.2.2"
+  }
+}
